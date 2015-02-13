@@ -5,7 +5,7 @@ Haliotis cracherodii digestive gland transcriptome generated from Trinity de nov
 UniprotKB Swissprot database containing amino acid sequences, protein descriptions and taxonomic information. The database is in .fasta format and can be obtained via the web (http://www.uniprot.org/downloads).
 
 3. Hcracherodii_v1_uniprot_sprot.tab
-Blastx output containing contigs of Haliotis cracherodii transcriptome with corresponding Uniprot Swissprot ascension number. The file is in .tab format and available via SQLShare.
+Blastx output containing contigs of Haliotis cracherodii transcriptome with corresponding Uniprot Swissprot accesssion number. The file is in .tab format and available via SQLShare.
 
 4. SPID and GO Numbers
 Contains Uniprot Swissprot accession numbers and their corresponding Gene Ontology information. The file is available in .csv format on SQLShare (https://sqlshare.escience.washington.edu/sqlshare/#s=query/sr320@washington.edu/SPID and GO Numbers).
