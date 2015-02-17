@@ -4,7 +4,7 @@ Library sequencing was performed on the SOLiD3 System (Life Technologies) and CL
 
 Functional annotation
 
-Consensus sequences from the de novo assembly were compared to the UniProtKB/Swiss-Prot database (http://uniprot.org) using the BLAST algorithm (Altschul et al. 1990). A cutoff e-value of 1E-05 was used for annotations. SQLShare was used to join annotation results with associated GO terms (Gene Ontology database: http://www.geneontology.org) to categorize genes into parent categories and assign them a functional group based on the MGI GO Slim database (URL:http://www.informatics.jax.org). The MGI GO Slim terms for ‘other biological processes’ and ‘other metabolic processes’ are not included in this analysis.
+Consensus sequences from the de novo assembly were compared to the UniProtKB/Swiss-Prot database (http://uniprot.org) using the BLAST algorithm (Altschul et al. 1990). A cutoff e-value of 1E-05 was used for annotations. SQLShare was used to join annotation results with associated GO terms (http://www.geneontology.org) to categorize genes into parent categories and assign them a functional group based on the MGI GO Slim database (http://www.informatics.jax.org). The MGI GO Slim terms for ‘other biological processes’ and ‘other metabolic processes’ are not included in this analysis.
 
 RNA-Seq analysis
 
